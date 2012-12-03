@@ -9,8 +9,8 @@ run
 
 template file
 ------------
-the template is located in `scripts/template/`. In main.js, it preload
-and cache the template before it initialize the application router and
+the template is located in `scripts/template/`. In main.js, it preloads
+and caches the template before it initializes the application router and
 Backbone.js's History.
 
 see also
