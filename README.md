@@ -1,4 +1,4 @@
-Playing with mustasche.js
+Playing with mustache.js
 ========================
 
 show how to integrate mustache.js with backbone.js
