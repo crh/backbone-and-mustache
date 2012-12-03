@@ -16,5 +16,5 @@ Backbone.js's History.
 see also
 --------
 
-[Mustache man page](http://mustache.github.com/mustache.5.html)
-[tutorial html templates with mustache.js](http://coenraets.org/blog/2011/12/tutorial-html-templates-with-mustache-js/)
+* [Mustache man page](http://mustache.github.com/mustache.5.html)
+* [tutorial html templates with mustache.js](http://coenraets.org/blog/2011/12/tutorial-html-templates-with-mustache-js/)
